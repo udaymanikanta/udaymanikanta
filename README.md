@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udaymanikanta
-- 👀 I’m interested in ...web developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... cloud computing
+- 🌱 I’m currently learning ... cloud architecture
+- 💞️ I’m looking to collaborate on ... udaymanikanta90@gmail.com
 - 📫 How to reach me ...8688144292
 
 <!---
